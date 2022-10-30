@@ -13,9 +13,15 @@
     },
     {
         "title": "Twitter",
-        "subtitle": "",
+        "subtitle": "This is Twitter",
         "image": "https://pbs.twimg.com/media/EiyEOMmU8AAqgI5?format=jpg&name=large",
-        "detail": "This is Twitter"
+        "detail": ""
+    },
+    {
+        "title": "Tiktok",
+        "subtitle": "This is Tiktok",
+        "image": "https://pbs.twimg.com/media/EiyEOMmU8AAqgI5?format=jpg&name=large",
+        "detail": ""
     }
  ]
  
