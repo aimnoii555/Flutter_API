@@ -1,0 +1,24 @@
+ [
+    {
+        "title": "Facebook",
+        "subtitle": "This is Facebook",
+        "image": "https://cdn.vox-cdn.com/thumbor/oBOU-_Z-G1v16s7-17bwJd54j-0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66428217/jbareham_180405_1777_facebook_0003.0.jpg",
+        "detail": ""
+    },
+    {
+        "title": "Instagram",
+        "subtitle": "This is Instagram",
+        "image": "https://images.unsplash.com/photo-1611262588024-d12430b98920?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aW5zdGFncmFtJTIwbG9nb3xlbnwwfHwwfHw%3D&w=1000&q=80",
+        "detail": ""
+    },
+    {
+        "title": "Twitter",
+        "subtitle": "",
+        "image": "https://pbs.twimg.com/media/EiyEOMmU8AAqgI5?format=jpg&name=large",
+        "detail": "This is Twitter"
+    }
+ ]
+ 
+ 
+ 
+ 
